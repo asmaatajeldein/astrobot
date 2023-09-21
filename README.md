@@ -1,27 +1,18 @@
 # AstroBot 👾
 
-This is my final project for Harvard's CS50x 2020
+This is my final project for Harvard's CS50x 2021
 
 #### Video Demo: https://youtu.be/CD3tueGtBas
 
-This is a Discord bot built for every space enthusiast and for every space-themed discord servers out there! You can use it to keep track of the upcoming launches and learn more about them, know who is currently in space and learn what is the phase of the moon right now!
+This is a Discord bot built for every space enthusiast and for every space-themed discord server out there! You can use it to keep track of the upcoming launches and learn more about them, know who is currently in space and learn what is the phase of the moon right now!
 
-I've built this bot as I was interested of learning more about REST APIs and how to use them. Also, I wanted for a long time to learn how to build a discord bot.
-So, I combined my enthusiasm for space and all of the things I wanted to learn and I built this bot!
-
-I'm currently using replit for uploading my code so the bot is on the cloud and not my local device.
-While Developing this bot I used a lot of googling and saw that a lot of people use JavaScript to build Discord Bots. So, maybe I will try to build one using JavaScript in the future.
-
-This bot is completely written using Python and it is built on some REST APIs to fetch information, which are:
+This bot is completely written using Python and and a bunch of REST APIs to fetch information:
 
 - [NASA APOD API](https://github.com/nasa/apod-api/tree/d392c158aefe1625f902241699b4a5892f8a76f3)
 - [Launch Library](https://lldev.thespacedevs.com/2.2.0/swagger)
 - [Moon Phases API](https://www.farmsense.net/api/astro-widgets/)
 - [ISS Current Location](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
 - [Reverse Geocoding](https://nominatim.org/release-docs/develop/api/Reverse/)
-
-I've spent a lot of time to find a free API to show the current moon phase and I landed on the one that I mentioned in the list above.
-But, I'm thinking of building a Moon Phases API myself in the near future, it sounds like a fun project for me.
 
 ## Libraries and Packages Needed:
 
